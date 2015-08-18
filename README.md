@@ -14,4 +14,4 @@ If it doesn't find the database an exception is thrown and it creates a table fo
 not be created in case of an exception and just an error message should be displayed.
 
 
-![Alt text](http://full/path/to/preview.jpg)
+![Alt text](http://preview.jpg "")
