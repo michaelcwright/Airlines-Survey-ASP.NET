@@ -12,3 +12,6 @@ Noise VARCHAR(10)
 
 If it doesn't find the database an exception is thrown and it creates a table for you. Keep mind that in the real world a table should
 not be created in case of an exception and just an error message should be displayed.
+
+
+![Alt text](http://full/path/to/preview.jpg)
